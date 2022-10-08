@@ -10,6 +10,7 @@
     <PackageReference Include="Community.OData.Linq" Version="2.1.0" />
     <PackageReference Include="Community.OData.Linq.AspNetCore" Version="2.1.0" />
     <PackageReference Include="MongoDB.Driver" Version="2.17.1" />
+    <PackageReference Include="Serialize.Linq" Version="2.0.0" />
   </ItemGroup>
 
   <ItemGroup>

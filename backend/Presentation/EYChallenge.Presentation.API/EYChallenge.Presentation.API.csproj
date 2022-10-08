@@ -13,6 +13,7 @@
     <PackageReference Include="Community.OData.Linq" Version="2.1.0" />
     <PackageReference Include="Community.OData.Linq.AspNetCore" Version="2.1.0" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.15.1" />
+    <PackageReference Include="Serialize.Linq" Version="2.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.4.0" />
   </ItemGroup>
