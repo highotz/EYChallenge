@@ -1,0 +1,11 @@
+﻿C:\Users\Higor Hotz\Desktop\Workspace\EYChallenge\backend\Presentation\EYChallenge.Presentation.API\Controllers\WeatherForecastController.cs
+C:\Users\Higor Hotz\Desktop\Workspace\EYChallenge\backend\Presentation\EYChallenge.Presentation.API\Program.cs
+C:\Users\Higor Hotz\Desktop\Workspace\EYChallenge\backend\Presentation\EYChallenge.Presentation.API\WeatherForecast.cs
+C:\Users\Higor Hotz\Desktop\Workspace\EYChallenge\backend\Presentation\EYChallenge.Presentation.API\obj\Debug\net6.0\EYChallenge.Presentation.API.GlobalUsings.g.cs
+C:\Users\Higor Hotz\Desktop\Workspace\EYChallenge\backend\Presentation\EYChallenge.Presentation.API\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\Higor Hotz\Desktop\Workspace\EYChallenge\backend\Presentation\EYChallenge.Presentation.API\obj\Debug\net6.0\EYChallenge.Presentation.API.AssemblyInfo.cs
+C:\Users\Higor Hotz\Desktop\Workspace\EYChallenge\backend\Presentation\EYChallenge.Presentation.API\obj\Debug\net6.0\EYChallenge.Presentation.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Higor Hotz\Desktop\Workspace\EYChallenge\backend\Presentation\EYChallenge.Presentation.API\appsettings.Development.json
+C:\Users\Higor Hotz\Desktop\Workspace\EYChallenge\backend\Presentation\EYChallenge.Presentation.API\appsettings.json
+C:\Users\Higor Hotz\Desktop\Workspace\EYChallenge\backend\Presentation\EYChallenge.Presentation.API\Dockerfile
+C:\Users\Higor Hotz\Desktop\Workspace\EYChallenge\backend\Presentation\EYChallenge.Presentation.API\Properties\launchSettings.json
